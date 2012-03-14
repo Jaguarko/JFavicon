@@ -2,7 +2,7 @@
  * JFavicon - A small library for manipulating the Favicon
  * Str@nnik
  * Copyright (c) 2012 Alex Ivashkin
- * @version 0.2.1
+ * @version 0.2.4
 */
 
 (function() {
