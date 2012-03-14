@@ -6,4 +6,4 @@
 
 ### Basic Usage
 To set a specific number in Favicon (Theme Default):
-JFavicon.draw(6);
+        Tinycon.setBubble(6);
