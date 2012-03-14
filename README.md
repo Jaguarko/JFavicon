@@ -1,14 +1,14 @@
-## JFavicon - easy counter Favicon
+## JFavicon - A small library for manipulating the Favicon
 *JFavicon* - free library to dynamically change Favicon
 
 ## Documentation
 *JFavicon* adds a single object to the global namespace and does not require initialisation.
 
 ### Basic Usage
-To set a specific number in Favicon (Theme Default):
+To set a specific number in Favicon:
 
         JFavicon.draw(6);
-        
+
 To add to the current counter value (if no argument is given, then 1 is added):
 
         JFavicon.add(2);
