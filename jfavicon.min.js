@@ -1,4 +1,4 @@
-/*
+/* 
  * JFavicon - A small library for manipulating the Favicon
  * Str@nnik
  * Copyright (c) 2012 Alex Ivashkin
