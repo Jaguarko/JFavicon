@@ -22,4 +22,4 @@ For call options simply pass the argument to init:
 		height: 5 //The height of the bubble
 	});
 	
-For all other properties, see the documentation
+For all other properties, see the [documentation] (/Jaguarko/JFavicon/tree/master/Doc)
