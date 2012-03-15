@@ -1,10 +1,7 @@
-## JFavicon - A small library for manipulating the Favicon
-*JFavicon* - free library to dynamically change Favicon
+# JFavicon - A small library for manipulating the Favicon
+*JFavicon* - free library to dynamically change Favicon and adds a single object to the global namespace
 
-## Documentation
-*JFavicon* adds a single object to the global namespace
-
-### Basic Usage
+## Basic Usage
 Before the tag `</body>` call the initialization JFavicon: `JFavicon.init()`
 
 To specify a particular value of the counter, use:
@@ -12,7 +9,7 @@ To specify a particular value of the counter, use:
 	JFavicon.draw(6);
 	//You can use any other value
 	
-### Options
+## Options
 For call options simply pass the argument to init:
 
 	JFavicon.init({
@@ -24,5 +21,5 @@ For call options simply pass the argument to init:
 	
 For all other properties, see the [documentation] (/Jaguarko/JFavicon/tree/master/Doc)
 
-### Advanced
+## Advanced
 *You can initialize JFavicon as many times as you want.*
