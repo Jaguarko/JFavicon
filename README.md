@@ -23,3 +23,6 @@ For call options simply pass the argument to init:
 	});
 	
 For all other properties, see the [documentation] (/Jaguarko/JFavicon/tree/master/Doc)
+
+### Advanced
+*You can initialize JFavicon as many times as you want.*
