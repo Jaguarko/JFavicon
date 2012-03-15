@@ -1,4 +1,5 @@
-##Config options:
+##Config options
+*To change the main settings JFavicon use the following variables:*
 
 ###extract:
 To add a global variable scope jf (alias JFavicon) pass function `JFavicon.init ()` argument to extract, not equal to 0. Example:
@@ -28,7 +29,8 @@ If you for some reason do not want to set a favicon HTML, then pass the address 
 <b>Notice.</b> The default favicon is taken from */favicon.png*<br>
 *This option is useless if you use a standard style.*
 
-##Style options:
+##Style options
+*To change the style settings JFavicon use the following variables:*
 
 ###width:
 To set the width of the background count, tell her (in pixels) of the variable `width`. Example:
